@@ -3,7 +3,7 @@
 💻 I'm a software engineer sharing my journey and learnings in tech.</br>
 👨‍🎓 Proud computer science graduate with a passion for innovation.</br>
 🌱 Enthusiastic about web development technologies and constantly learning.</br>
-🔭 Currently learning backend development with javascript, node and express.</br>
+🔭 Currently learning TypeScript.</br>
 🌐 Firm believer in the power of learning in public and networking to grow together.</br>
 
 
