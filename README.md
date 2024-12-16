@@ -4,7 +4,7 @@
 👨‍🎓 Proud computer science graduate with a passion for innovation.</br>
 🌱 Enthusiastic about web development technologies and constantly learning.</br>
 🔭 Currently learning TypeScript.</br>
-🌐 Firm believer in the power of learning in public and networking to grow together.</br>
+🌐 Firm believer in the power of learning in public and networking.</br>
 
 
 
